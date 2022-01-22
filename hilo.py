@@ -10,5 +10,3 @@ class Card:
 
 def main():
     pass
-
-print(hey)
