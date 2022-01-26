@@ -1,10 +1,12 @@
+import time
+
 class Card:
 
     def __init__ (self):
-        pass
+        
 
-    def pick_card():
-        pass
+    def pick_card(self):
+        
 
 class director:
 
@@ -19,9 +21,9 @@ class director:
     
 
 def main():
-    pass
-<<<<<<< HEAD
+    A_card = Card()
+    A_card.pick_card()
 
+if __name__ == "__main__":
+    main()
 
-=======
->>>>>>> 91e8281f09fcca78566c097f9c04570e3c851526
