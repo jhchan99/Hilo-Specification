@@ -10,7 +10,7 @@ There are two classes for this program:
 The following responsibilities, behaviors, and statuses are as follows:
 
 - Director:
-1. Resposibilities - Run the game by verifying the conditions of the game are always true before each turn. Keeps track of player's points and cards, and asks the user two questions: if they want another move or what their guess is for the card (whether higher or lower)
+1. Responsibilities - Run the game by verifying the conditions of the game are always true before each turn. Keeps track of player's points and cards, and asks the user two questions: if they want another move or what their guess is for the card (whether higher or lower)
 
 2. Behaviors:
     a. Check the points of the player to make sure it is not lower than 0: Points_Below_Zero()

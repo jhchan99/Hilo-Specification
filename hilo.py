@@ -8,22 +8,18 @@ class Card:
     def pick_card(self):
         
 
-class director:
+class Director:
 
     def __init__ (self):
         pass
 
-    def start_game():
+    def start_game(self):
         pass
 
     def guess():
         pass
-    
 
-def main():
-    A_card = Card()
-    A_card.pick_card()
+    def main():
+        
 
-if __name__ == "__main__":
-    main()
 
